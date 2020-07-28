@@ -1,0 +1,17 @@
+h1{
+    text-align:center;
+    color:rgb(217, 228, 61);
+
+    
+}
+h3{
+    text-align:center;
+    font-size: 40px;
+}
+body{
+    background:linear-gradient(to right,red,pink);
+    text-align:center;
+    margin:10%;
+    letter-spacing:.5em;
+    text-transform: uppercase;
+}
